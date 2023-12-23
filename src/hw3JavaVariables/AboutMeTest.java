@@ -3,7 +3,7 @@ package hw3JavaVariables;
 public class AboutMeTest {
 
 	public static void main(String[] args) {
-		
+
 		AboutMe aboutMe = new AboutMe();
 
 		System.out.println("Customer Name: " + aboutMe.customerName + "\nCustomer Age: " + aboutMe.cusAge
@@ -11,6 +11,7 @@ public class AboutMeTest {
 				+ "\nCustomer Card Number: " + aboutMe.cusCard + "\nCustomer Phone: " + aboutMe.cusPhone
 				+ "\nCustomer Reward: " + aboutMe.cusRewards + "\nCustomer Membership: " + aboutMe.cusMembership);
 
+		
 	}
 
 }

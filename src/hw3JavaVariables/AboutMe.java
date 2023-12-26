@@ -25,7 +25,8 @@ public class AboutMe {
 
 	
 	/*
-	 * public static void main(String[] args) { AboutMe aboutMe = new AboutMe();
+	 * public static void main(String[] args) { 
+	 * AboutMe aboutMe = new AboutMe();
 	 * System.out.println(aboutMe.customerName);
 	 * System.out.println(aboutMe.cusCard); System.out.println(aboutMe.cusPhone);
 	 * System.out.println(aboutMe.cusAccNumber);

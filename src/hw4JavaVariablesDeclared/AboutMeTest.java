@@ -8,9 +8,9 @@ public class AboutMeTest {
 		AboutMe aboutMe = new AboutMe();
 
 		// Method initialized
-		aboutMe.cusVip = "Rakib";
-		aboutMe.nameOfCus();
-
+//		aboutMe.cusVip = "Rakib";
+//		aboutMe.nameOfCus();
+		
 		// Method initialized
 		// variable initialized
 		aboutMe.customerName = "Rakib";

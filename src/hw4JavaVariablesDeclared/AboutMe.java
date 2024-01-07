@@ -28,13 +28,13 @@ public class AboutMe {
 	String cusVip;
 
 	// method implemented
-	public void nameOfCus() {
-
-		System.out.println("I am printing from Cus Method");
-		System.out.println(cusName = "Mike");
-		System.out.println(cusVip);
-
-	}
+//	public void nameOfCus() {
+//
+//		System.out.println("I am printing from Cus Method");
+//		System.out.println(cusName = "Mike");
+//		System.out.println(cusVip);
+//
+//	}
 
 	// method implemented
 	public void nameOfClient() {

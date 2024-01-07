@@ -22,10 +22,10 @@ public class Computer {
 		this.grade = grade;
 		this.madeInUSA = madeInUSA;
 
-		System.out.println("Laptop Brand: " + brand + "\nModel: " + model + "\nOperating System: " + operatingSystem +
-				"\nPrice: " + price + "\nGrade: " + grade + "\nMade in USA? " + madeInUSA);
-	
+		System.out.println("Laptop Brand: " + brand + "\nModel: " + model + "\nOperating System: " + operatingSystem
+				+ "\nPrice: " + "$" + price + "\nGrade: " + grade + "\nMade in USA? " + madeInUSA);
 
 	}
+	
 
 }

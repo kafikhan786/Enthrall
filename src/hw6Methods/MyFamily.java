@@ -16,6 +16,9 @@ public class MyFamily {
 	public static void main(String[] args) {
 		MyFamily childrenAge = new MyFamily();
 		childrenAge.myFamily();
+		
+		
+//System.out.println("\"ee\"");
 	}
 
 }

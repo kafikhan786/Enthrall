@@ -7,6 +7,9 @@ public class TestFamily {
 		Father father = new Father();
 		Father father2 = new Father("Rakib", 100, 'M', true);
 
+		father.father();
+		father.fatherInfo("Rakibur", 50, 'M', false);
+		
 		Daughter daughter = new Daughter();
 		Daughter daughter2 = new Daughter("January", 30);
 

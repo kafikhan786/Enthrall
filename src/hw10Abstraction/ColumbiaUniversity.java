@@ -6,7 +6,7 @@ public class ColumbiaUniversity extends MedicalSchool {
 	// Regular class can inherit another regular class
 	// abstract method not allowed here because its a regular class
 	// one keyword "extends" use to inherit regular class
-	// only one inheritance possible with regular class
+	// only one inheritance possible with regular class and abstract class
 	
 	
 	

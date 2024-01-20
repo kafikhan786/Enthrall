@@ -19,4 +19,10 @@ public class ColumbiaUniversity extends MedicalSchool {
 	public ColumbiaUniversity() {
 
 	}
+
+	@Override
+	public void anatomyLab() {
+		// TODO Auto-generated method stub
+		
+	}
 }

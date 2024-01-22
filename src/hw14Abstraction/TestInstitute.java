@@ -5,14 +5,10 @@ public class TestInstitute {
 	public static void main(String[] args) {
 
 		ColumbiaUniversity cu = new ColumbiaUniversity();
+		University uni = new ColumbiaUniversity();
+		MedicalSchool ms = new ColumbiaUniversity();
+		
 
-		// An Interface can not be instantiate
-		// University university=new University(); 
-		
-		// An abstract class can not be instantiate. Can not call method directly but through child class.
-		// MedicalSchool ms= new MedicalSchool(); 
-		
-		
 		cu.biology();
 		cu.anatomyLab();
 		cu.classSize();
@@ -36,8 +32,12 @@ public class TestInstitute {
 		cu.gymnasium();
 		cu.dorm();
 		cu.morgue();
-		
-		
+
+		uni.gymnasium();
+		University.library(); // Static method, thats why its called by class name
+
+		ms.biochemistryLab();
+		ms.mechanicalLab();
 
 	}
 }

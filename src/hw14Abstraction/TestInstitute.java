@@ -7,10 +7,10 @@ public class TestInstitute {
 		ColumbiaUniversity cu = new ColumbiaUniversity();
 
 		// An Interface can not be instantiate
-		//	University university=new University(); 
-
+		// University university=new University(); 
+		
 		// An abstract class can not be instantiate. Can not call method directly but through child class.
-		//	MedicalSchool ms= new MedicalSchool(); 
+		// MedicalSchool ms= new MedicalSchool(); 
 		
 		
 		cu.biology();
@@ -27,6 +27,15 @@ public class TestInstitute {
 		cu.cafeteria();
 		cu.lawInfo();
 		cu.hygiene();
+		cu.biochemistryLab();
+		cu.maths();
+		cu.aeronauticalInfo();
+		cu.mechanicalLab();
+		cu.caring();
+		cu.anthropology();
+		cu.gymnasium();
+		cu.dorm();
+		cu.morgue();
 		
 		
 

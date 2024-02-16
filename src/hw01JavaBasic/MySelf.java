@@ -1,6 +1,6 @@
 package hw01JavaBasic;
 
-import java.util.jar.Attributes.Name;
+
 
 public class MySelf {
 	
